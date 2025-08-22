@@ -1,12 +1,12 @@
 # Portfolio Website
 
-![Portfolio Website Preview](http://images-panchanan.s3-website.ap-south-1.amazonaws.com/portfolio/Website%20image.jpg)
+![Portfolio Website Preview](http://portfolio-panchanan.s3-website.ap-south-1.amazonaws.com/assets/Website-image.jpg)
 
 🚀 **Live Demo**: [http://portfolio-panchanan.s3-website.ap-south-1.amazonaws.com/](http://portfolio-panchanan.s3-website.ap-south-1.amazonaws.com/)
 
 OR https://portfolio-website-lags.onrender.com/
 
-![Portfolio Website Preview] https://drive.google.com/file/d/1-GOm3O8qcJeSxMPCRUka7PZutqMco3w-/view?usp=sharing
+
 
 
 
