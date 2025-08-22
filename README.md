@@ -1,4 +1,17 @@
-# PortfolioWebsite
+# Portfolio Website
+
+🚀 **Live Demo**: [http://portfolio-panchanan.s3-website.ap-south-1.amazonaws.com/](http://portfolio-panchanan.s3-website.ap-south-1.amazonaws.com/)
+
+A modern, futuristic portfolio website showcasing full-stack development skills and projects. Built with Angular and featuring glassmorphism effects, cyberpunk-inspired design, and advanced animations.
+
+## 🌟 Features
+
+- **Futuristic UI Design** with glassmorphism and neon effects
+- **Responsive Design** optimized for all devices
+- **Advanced Animations** including cyber glitch and hologram effects
+- **Modern Typography** using Orbitron, Rajdhani, and Space Mono fonts
+- **Interactive Elements** with hover effects and micro-interactions
+- **Optimized Performance** with lazy loading and efficient bundling
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.0.
 
