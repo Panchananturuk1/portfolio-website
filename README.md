@@ -2,6 +2,8 @@
 
 🚀 **Live Demo**: [http://portfolio-panchanan.s3-website.ap-south-1.amazonaws.com/](http://portfolio-panchanan.s3-website.ap-south-1.amazonaws.com/)
 
+OR https://portfolio-website-lags.onrender.com/
+
 A modern, futuristic portfolio website showcasing full-stack development skills and projects. Built with Angular and featuring glassmorphism effects, cyberpunk-inspired design, and advanced animations.
 
 ## 🌟 Features
